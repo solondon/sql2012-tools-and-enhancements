@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{1549BEA8-1B78-4873-B1C1-87017800B9B4}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\Analytic Functions.sql = Scripts\Analytic Functions.sql
+		Scripts\OVER Clause.sql = Scripts\OVER Clause.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccLocalPath0 = .
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
